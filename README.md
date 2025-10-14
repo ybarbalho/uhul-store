@@ -1,6 +1,6 @@
 # Uhul Store 🎉
 
-Festas são ótimas para celebrar conquistas e unir pessoas. A **Uhul Store** é uma loja online especializada em produtos para eventos. Entre o fim de 2018 e início de 2019, implementou uma nova plataforma de vendas para aumentar o lucro, resultando em maior volume de vendas. Por isso, foi solicitada uma análise dos dados usando gráficos e hipóteses para entender o perfil dos usuários. Antes da análise, será preciso tratar inconsistências no banco de dados para garantir resultados confiáveis.
+Festas são ótimos momentos para celebrarmos conquistas e unirmos pessoas. A **Uhul Store** é uma loja online especializada em produtos para eventos. Entre o fim de 2018 e início de 2019, implementou uma nova plataforma de vendas para aumentar o lucro, resultando em maior volume de vendas. Por isso, foi solicitada uma análise dos dados usando gráficos e hipóteses para entender o perfil dos usuários. Antes da análise, será preciso tratar inconsistências no banco de dados para garantir resultados confiáveis.
 
 ## 📑 Índice
 
